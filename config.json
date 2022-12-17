@@ -1,7 +1,7 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "NomorPemilik" : "62882003427100@s.whatsapp.net" ,
+    "namapemilik" : "Ponda" ,
+    "botName" : "Pond-Botz " ,
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "nama paket" : "    -    Botz "
+        "penulis" : "Oleh Pond-Botz "
     }
 }
